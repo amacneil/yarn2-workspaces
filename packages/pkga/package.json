@@ -1,0 +1,6 @@
+{
+  "name": "pkga",
+  "dependencies": {
+    "pkgb": "workspace:packages/pkgb"
+  }
+}
